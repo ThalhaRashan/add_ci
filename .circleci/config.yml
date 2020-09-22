@@ -16,7 +16,7 @@ jobs:
           command: |
             pip install pipenv
             pwd
-            sudo cd app
+            cd tests
             pwd
             cd app && pipenv lock --requirements > requirements.txt
             pip install -r requirements.txt
