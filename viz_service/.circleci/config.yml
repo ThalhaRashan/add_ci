@@ -5,7 +5,7 @@ jobs:
     docker:
       - image: circleci/python:3.7
 
-    working_directory: ~/repo
+    working_directory: ~/repo/viz_service
 
     steps:
       # Step 1: obtain repo from GitHub
@@ -22,5 +22,4 @@ jobs:
       - run:
           name: run tests
           command: |
-            flake8 --exclude=venv* --statistics
-            python -m unittest test_flask_app.TestFlaskApi in /viz_service/tests
+            python -m unittest test_temp.MyTestCase in /tests
