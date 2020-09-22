@@ -15,7 +15,7 @@ jobs:
           command: |
             pip install pipenv
             echo pwd
-            cd /app && pipenv lock --requirements > requirements.txt
+            cd ./app/ && pipenv lock --requirements > requirements.txt
             pip install -r app/requirements.txt
 
           working_directory: viz_service
