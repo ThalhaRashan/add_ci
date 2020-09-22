@@ -1,0 +1,10 @@
+C:\Users\44778\AppData\Local\Programs\Python\Python37\lib\ast.py:35: size=2562 KiB (+2560 KiB), count=15 (+1), average=171 KiB 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\dtypes\cast.py:1002: size=107 KiB (+39.7 KiB), count=134 (+14), average=820 B 
+<string>:1: size=54.5 KiB (+27.5 KiB), count=867 (+439), average=64 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\algorithms.py:382: size=16.6 KiB (+8456 B), count=42 (+18), average=405 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\indexes\base.py:409: size=50.9 KiB (+5088 B), count=86 (+9), average=606 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\internals\blocks.py:123: size=736 B (-4320 B), count=4 (+1), average=184 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\ops\array_ops.py:336: size=15.2 KiB (+3301 B), count=53 (+6), average=294 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\indexes\base.py:439: size=26.2 KiB (+3120 B), count=43 (+5), average=624 B 
+C:\Program Files\JetBrains\PyCharm 2020.1\plugins\python\helpers\pydev\_pydevd_bundle\pydevd_trace_dispatch.py:59: size=2780 B (-2936 B), count=37 (-33), average=75 B 
+C:\Users\44778\AppData\Local\Programs\Python\Python37\lib\threading.py:804: size=4032 B (+2880 B), count=7 (+5), average=576 B 

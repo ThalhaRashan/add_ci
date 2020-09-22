@@ -1,0 +1,455 @@
+diagnosis_on_admission,admission_group,system,diagnosis_type
+Anaphylaxis,Other,Cardiovascular,Non operative
+"Aneurysm, dissecting aortic",Other,Cardiovascular,Non operative
+"Aneurysm/pseudoaneurysm, other",Other,Cardiovascular,Non operative
+"Angina, stable (asymp or stable pattern of symptoms w/meds)",Other,Cardiovascular,Non operative
+"Angina, unstable (angina interferes w/quality of life or meds are tolerated poorly)",Other,Cardiovascular,Non operative
+Cardiac arrest (with or without respiratory arrest; for respiratory arrest),Post cardiac or respiratory arrest,Cardiovascular,Non operative
+Cardiomyopathy,Other,Cardiovascular,Non operative
+"Cardiovascular medical, other",Other,Cardiovascular,Non operative
+"Chest pain, atypical (noncardiac chest pain)",Other,Cardiovascular,Non operative
+"Chest pain, epigastric",Other,Cardiovascular,Non operative
+"Chest pain, musculoskeletal",Other,Cardiovascular,Non operative
+"Chest pain, respiratory",Respiratory disease,Cardiovascular,Non operative
+"Chest pain, unknown origin",Other,Cardiovascular,Non operative
+"CHF, congestive heart failure",Other,Cardiovascular,Non operative
+"Complications of previous open heart surgery (i.e. bleeding, infection etc.)",Other,Cardiovascular,Non operative
+"Efffusion, pericardial",Other,Cardiovascular,Non operative
+Endocarditis,Other,Cardiovascular,Non operative
+Hematomas,Other,Cardiovascular,Non operative
+Hemorrhage (for gastrointestinal bleeding),Other,Cardiovascular,Non operative
+"Hypertension, uncontrolled  (for cerebrovascular accident)",Other,Cardiovascular,Non operative
+Hypovolemia  (including dehydration),Other,Cardiovascular,Non operative
+"Infarction, acute myocardial (MI), ANTERIOR",Acute ischemic event,Cardiovascular,Non operative
+"Infarction, acute myocardial (MI), INFEROLATERAL",Acute ischemic event,Cardiovascular,Non operative
+"Infarction, acute myocardial (MI), NON Q Wave",Acute ischemic event,Cardiovascular,Non operative
+"Infarction, acute myocardial (MI), none of the above",Acute ischemic event,Cardiovascular,Non operative
+MI admitted > 24hrs after onset of ischemia,Acute ischemic event,Cardiovascular,Non operative
+"Monitoring, hemodynamic (pre-operative evaluation)",Other,Cardiovascular,Non operative
+Papillary muscle rupture,Other,Cardiovascular,Non operative
+Pericarditis,Other,Cardiovascular,Non operative
+"Rhythm disturbance (atrial, supraventricular)",Other,Cardiovascular,Non operative
+Rhythm disturbance (conduction defect),Other,Cardiovascular,Non operative
+Rhythm disturbance (ventricular),Other,Cardiovascular,Non operative
+"Sepsis, cutaneous/soft tissue",Systemic Infection,Cardiovascular,Non operative
+"Sepsis, GI",Systemic Infection,Cardiovascular,Non operative
+"Sepsis, gynecologic",Systemic Infection,Cardiovascular,Non operative
+"Sepsis, other",Systemic Infection,Cardiovascular,Non operative
+"Sepsis, pulmonary",Systemic Infection,Cardiovascular,Non operative
+"Sepsis, renal/UTI (including bladder)",Systemic Infection,Cardiovascular,Non operative
+"Sepsis, unknown",Systemic Infection,Cardiovascular,Non operative
+"Shock, cardiogenic",Other,Cardiovascular,Non operative
+"Tamponade, pericardial",Other,Cardiovascular,Non operative
+"Thrombosis, vascular (deep vein)",Other,Cardiovascular,Non operative
+"Thrombus, arterial",Other,Cardiovascular,Non operative
+"Toxicity, drug (i.e., beta blockers, calcium channel blockers, etc)",Other,Cardiovascular,Non operative
+"Vascular medical, other",Other,Cardiovascular,Non operative
+Ablation or mapping of cardiac conduction pathway,Planned post - op,Cardiovascular,Post operative
+"Aneurysm repair, ventricular",Planned post - op,Cardiovascular,Post operative
+"Aneurysm, abdominal aortic",Planned post - op,Cardiovascular,Post operative
+"Aneurysm, abdominal aortic; with dissection",Planned post - op,Cardiovascular,Post operative
+"Aneurysm, abdominal aortic; with rupture",Emergency post op,Cardiovascular,Post operative
+"Aneurysm, thoracic aortic",Planned post - op,Cardiovascular,Post operative
+"Aneurysm, thoracic aortic; with dissection",Emergency post op,Cardiovascular,Post operative
+"Aneurysm, thoracic aortic; with rupture",Emergency post op,Cardiovascular,Post operative
+"Aneurysms, repair of other (except ventricular)",Planned post - op,Cardiovascular,Post operative
+Aortic and Mitral valve replacement,Planned post - op,Cardiovascular,Post operative
+Aortic valve replacement (isolated),Planned post - op,Cardiovascular,Post operative
+Atrial Septal Defect (ASD) Repair,Planned post - op,Cardiovascular,Post operative
+"CABG alone, coronary artery bypass grafting",Planned post - op,Cardiovascular,Post operative
+"CABG alone, redo",Planned post - op,Cardiovascular,Post operative
+CABG redo with other operation,Planned post - op,Cardiovascular,Post operative
+CABG redo with valve repair/replacement,Planned post - op,Cardiovascular,Post operative
+CABG with aortic valve replacement,Planned post - op,Cardiovascular,Post operative
+CABG with double valve repair/replacement,Planned post - op,Cardiovascular,Post operative
+CABG with mitral valve repair,Planned post - op,Cardiovascular,Post operative
+CABG with mitral valve replacement,Planned post - op,Cardiovascular,Post operative
+CABG with other operation,Planned post - op,Cardiovascular,Post operative
+CABG with pulmonic or tricuspid valve repair or replacement ONLY,Planned post - op,Cardiovascular,Post operative
+"CABG, Minimally invasive; Mid-CABG",Planned post - op,Cardiovascular,Post operative
+"Cardiovascular surgery, other",Planned post - op,Cardiovascular,Post operative
+Congenital Defect Repair (Other),Planned post - op,Cardiovascular,Post operative
+"Defibrillator, automatic implantable cardiac; insertion of",Planned post - op,Cardiovascular,Post operative
+Dilatation (with general anesthesia),Planned post - op,Cardiovascular,Post operative
+Dilatation (without general anesthesia),Planned post - op,Cardiovascular,Post operative
+Embolectomy (with general anesthesia),Emergency post op,Cardiovascular,Post operative
+Embolectomy (without general anesthesia),Emergency post op,Cardiovascular,Post operative
+Endarterectomy (other vessels),Planned post - op,Cardiovascular,Post operative
+"Endarterectomy, carotid",Planned post - op,Cardiovascular,Post operative
+"Graft for dialysis, insertion of",Planned post - op,Cardiovascular,Post operative
+"Graft, aorto-femoral bypass",Planned post - op,Cardiovascular,Post operative
+"Graft, aorto-iliac bypass",Planned post - op,Cardiovascular,Post operative
+"Graft, femoral-femoral bypass",Planned post - op,Cardiovascular,Post operative
+"Graft, femoral-popliteal bypass",Planned post - op,Cardiovascular,Post operative
+"Grafts, all other bypass (except renal)",Planned post - op,Cardiovascular,Post operative
+"Grafts, all renal bypass",Planned post - op,Cardiovascular,Post operative
+"Grafts, removal of infected vascular",Planned post - op,Cardiovascular,Post operative
+Mitral valve repair,Planned post - op,Cardiovascular,Post operative
+Mitral valve replacement,Planned post - op,Cardiovascular,Post operative
+Pericardial effusion/tamponade,Planned post - op,Cardiovascular,Post operative
+Pericardial effusion/tamponade,Emergency post op,Cardiovascular,Post operative
+Pericardiectomy (total/subtotal),Planned post - op,Cardiovascular,Post operative
+Pulmonary valve surgery,Planned post - op,Cardiovascular,Post operative
+Thrombectomy (with general anesthesia),Emergency post op,Cardiovascular,Post operative
+Thrombectomy (without general anesthesia),Emergency post op,Cardiovascular,Post operative
+Tricuspid valve surgery,Planned post - op,Cardiovascular,Post operative
+"Tumor removal, intracardiac",Planned post - op,Cardiovascular,Post operative
+"Vascular surgery, other",Planned post - op,Cardiovascular,Post operative
+Vena cava clipping,Planned post - op,Cardiovascular,Post operative
+Vena cava filter insertion,Planned post - op,Cardiovascular,Post operative
+Ventricular Septal Defect (VSD) Repair,Planned post - op,Cardiovascular,Post operative
+Alcohol withdrawal,Other,Gastrointestinal,Non operative
+"Bleeding, GI from esophageal varices/portal hypertension",Other,Gastrointestinal,Non operative
+"Bleeding, GI-location unknown",Other,Gastrointestinal,Non operative
+"Bleeding, lower GI",Other,Gastrointestinal,Non operative
+"Cancer, colon/rectal",Oncology/Haematology,Gastrointestinal,Non operative
+"Cancer, esophageal",Oncology/Haematology,Gastrointestinal,Non operative
+"Cancer, other GI",Oncology/Haematology,Gastrointestinal,Non operative
+"Cancer, pancreatic",Oncology/Haematology,Gastrointestinal,Non operative
+"Cancer, stomach",Oncology/Haematology,Gastrointestinal,Non operative
+Cholangitis,Other,Gastrointestinal,Non operative
+Diverticular disease,Other,Gastrointestinal,Non operative
+"Encephalopathy, hepatic",Other,Gastrointestinal,Non operative
+GI Abscess/cyst,Other,Gastrointestinal,Non operative
+"GI medical, other",Other,Gastrointestinal,Non operative
+GI Obstruction,Other,Gastrointestinal,Non operative
+GI Perforation/rupture,Other,Gastrointestinal,Non operative
+GI Vascular insufficiency,Other,Gastrointestinal,Non operative
+"Hepatic failure, acute",Other,Gastrointestinal,Non operative
+Inflammatory bowel disease,Other,Gastrointestinal,Non operative
+Pancreatitis,Other,Gastrointestinal,Non operative
+Peritonitis,Other,Gastrointestinal,Non operative
+"Ulcer disease, peptic",Other,Gastrointestinal,Non operative
+Appendectomy,Emergency post op,Gastrointestinal,Post operative
+"Bleeding-lower GI, surgery for",Planned post - op,Gastrointestinal,Post operative
+"Bleeding-other GI, surgery for",Planned post - op,Gastrointestinal,Post operative
+"Bleeding-upper GI, surgery for",Planned post - op,Gastrointestinal,Post operative
+"Bleeding-variceal, surgery for (excluding vascular shuntingsee surgery for portosystemic shunt)",Planned post - op,Gastrointestinal,Post operative
+"Cancer-colon/rectal, surgery for (including abdominoperineal resections)",Oncology/Haematology,Gastrointestinal,Post operative
+"Cancer-esophageal, surgery for (abdominal approach)",Oncology/Haematology,Gastrointestinal,Post operative
+"Cancer-other GI tract, surgery for  (i.e. hepatoma, gallbladder etc.)",Oncology/Haematology,Gastrointestinal,Post operative
+"Cancer-small intestinal, surgery for",Oncology/Haematology,Gastrointestinal,Post operative
+"Cancer-stomach, surgery for",Oncology/Haematology,Gastrointestinal,Post operative
+CAPD catheter insertion,Planned post - op,Gastrointestinal,Post operative
+"Cholecystectomy/cholangitis, surgery  (gallbladder removal)",Planned post - op,Gastrointestinal,Post operative
+"Complications of previous GI surgery; surgery for (anastomotic leak, bleeding, abscess, infection, dehiscence, etc.)",Planned post - op,Gastrointestinal,Post operative
+"Diverticular disease, surgery for",Planned post - op,Gastrointestinal,Post operative
+"Esophageal surgery, other",Planned post - op,Gastrointestinal,Post operative
+"Fistula/abscess, surgery for (not inflammatory bowel disease)",Planned post - op,Gastrointestinal,Post operative
+Gastrostomy,Planned post - op,Gastrointestinal,Post operative
+"GI Abscess/cyst-primary, surgery for",Planned post - op,Gastrointestinal,Post operative
+"GI Obstruction, surgery for  (including lysis of adhesions)",Planned post - op,Gastrointestinal,Post operative
+"GI Perforation/rupture, surgery for",Emergency post op,Gastrointestinal,Post operative
+"GI surgery, other",Planned post - op,Gastrointestinal,Post operative
+"GI Vascular ischemia, surgery for (resection)",Planned post - op,Gastrointestinal,Post operative
+"Hemorrhage, intra/retroperitoneal",Emergency post op,Gastrointestinal,Post operative
+"Hernia-hiatal, esophageal surgery for",Planned post - op,Gastrointestinal,Post operative
+Herniorrhaphy,Planned post - op,Gastrointestinal,Post operative
+"Inflammatory bowel disease, surgery for",Planned post - op,Gastrointestinal,Post operative
+"Obesity-morbid, surgery for",Planned post - op,Gastrointestinal,Post operative
+"Pancreatitis, surgery for",Planned post - op,Gastrointestinal,Post operative
+Peritoneal lavage,Planned post - op,Gastrointestinal,Post operative
+"Peritonitis, surgery for",Planned post - op,Gastrointestinal,Post operative
+"Shunt, peritoneal-venous;surgery for",Planned post - op,Gastrointestinal,Post operative
+"Shunt-portosystemic, surgery for",Planned post - op,Gastrointestinal,Post operative
+Splenectomy,Planned post - op,Gastrointestinal,Post operative
+Whipple-surgery for pancreatic cancer,Planned post - op,Gastrointestinal,Post operative
+"Genitourinary medical, other",Other,Genitourinary,Non operative
+"Hemorrhage, postpartum (female)",Other,Genitourinary,Non operative
+Hepato-renal syndrome,Other,Genitourinary,Non operative
+Pre-eclampsia/eclampsia (female,Other,Genitourinary,Non operative
+Renal bleeding,Other,Genitourinary,Non operative
+"Renal failure, acute",Renal failure,Genitourinary,Non operative
+Renal infection/abscess,Other,Genitourinary,Non operative
+"Renal neoplasm, cancer",Oncology/Haematology,Genitourinary,Non operative
+Renal obstruction,Other,Genitourinary,Non operative
+Bladder repair for perforation/rupture,Planned post - op,Genitourinary,Post operative
+Cesarean section,Planned post - op,Genitourinary,Post operative
+"Cyst, ruptured ovarian",Planned post - op,Genitourinary,Post operative
+Cystectomy (other reasons),Planned post - op,Genitourinary,Post operative
+Cystectomy for neoplasm,Planned post - op,Genitourinary,Post operative
+Ectopic pregnancy (all),Planned post - op,Genitourinary,Post operative
+"Exenteration, pelvic-male",Planned post - op,Genitourinary,Post operative
+"Exenteration, pelvic-female",Planned post - op,Genitourinary,Post operative
+"Genitourinary surgery, other",Planned post - op,Genitourinary,Post operative
+Hysterectomy for cancer +/- lymph node dissection,Oncology/Haematology,Genitourinary,Post operative
+Hysterectomy for other benign neoplasm/fibroids,Oncology/Haematology,Genitourinary,Post operative
+"Lymph node dissection, pelvic or retroperitoneal(female)",Planned post - op,Genitourinary,Post operative
+"Lymph node dissection, pelvic or retroperitoneal(male)",Planned post - op,Genitourinary,Post operative
+Mastectomy (all),Oncology/Haematology,Genitourinary,Post operative
+Nephrectomy (other reasons),Planned post - op,Genitourinary,Post operative
+Nephrectomy for neoplasm,Oncology/Haematology,Genitourinary,Post operative
+"Obstruction due to neoplasm ,surgery",Oncology/Haematology,Genitourinary,Post operative
+Obstruction due to nephrolithiasis,Planned post - op,Genitourinary,Post operative
+"Obstruction/other, surgery",Planned post - op,Genitourinary,Post operative
+Oophorectomy,Planned post - op,Genitourinary,Post operative
+Orchiectomy with/without pelvic lymph node dissection,Planned post - op,Genitourinary,Post operative
+"Pelvic relaxation (cystocele, rectocele, etc.)",Planned post - op,Genitourinary,Post operative
+"Prostatectomy, suprapubic; for benign prostatic hypertrophy",Planned post - op,Genitourinary,Post operative
+"Prostatectomy, suprapubic; for cancer",Oncology/Haematology,Genitourinary,Post operative
+"TURP, transurethral prostate resection for benign prostatic hypertrophy",Planned post - op,Genitourinary,Post operative
+"TURP, transurethral prostate resection for cancer",Oncology/Haematology,Genitourinary,Post operative
+Anemia,Oncology/Haematology,Hematology,Non operative
+Blood transfusion reaction,Oncology/Haematology,Hematology,Non operative
+Coagulopathy,Oncology/Haematology,Hematology,Non operative
+"Hematologic medical, other",Oncology/Haematology,Hematology,Non operative
+"Leukemia, acute lymphocytic",Oncology/Haematology,Hematology,Non operative
+"Leukemia, acute myelocytic",Oncology/Haematology,Hematology,Non operative
+"Leukemia, chronic lymphocytic",Oncology/Haematology,Hematology,Non operative
+"Leukemia, chronic myelocytic",Oncology/Haematology,Hematology,Non operative
+"Leukemia, other",Oncology/Haematology,Hematology,Non operative
+"Lymphoma, Hodgkins",Oncology/Haematology,Hematology,Non operative
+"Lymphoma, non-Hodgkins",Oncology/Haematology,Hematology,Non operative
+Neutropenia,Oncology/Haematology,Hematology,Non operative
+Pancytopenia,Oncology/Haematology,Hematology,Non operative
+Sickle cell crisis,Oncology/Haematology,Hematology,Non operative
+Thrombocytopenia,Oncology/Haematology,Hematology,Non operative
+"Hematologic surgery, other",Planned post - op,Hematology,Post operative
+"Lymphoma Hodgkins, surgery for (including staging)",Oncology/Haematology,Hematology,Post operative
+"Lymphoma, non-Hodgkins; surgery for (including staging)",Oncology/Haematology,Hematology,Post operative
+Acid-base electrolyte disturbance,Other,Metabolic/Endocrine,Non operative
+Addisons disease,Endocrine event,Metabolic/Endocrine,Non operative
+Adrenal neoplasm (including pheochromocytoma),Endocrine event,Metabolic/Endocrine,Non operative
+Diabetic hyperglycemic hyperosmolar nonketotic coma,Endocrine event,Metabolic/Endocrine,Non operative
+Diabetic ketoacidosis,Endocrine event,Metabolic/Endocrine,Non operative
+Heat exhaustion/stroke,Other,Metabolic/Endocrine,Non operative
+Hyperthermia,Other,Metabolic/Endocrine,Non operative
+Hyperthyroid storm/crisis,Endocrine event,Metabolic/Endocrine,Non operative
+Hypoglycemia,Endocrine event,Metabolic/Endocrine,Non operative
+Hypothermia,Other,Metabolic/Endocrine,Non operative
+Hypothyroid/myxedema,Endocrine event,Metabolic/Endocrine,Non operative
+"Metabolic/endocrine medical, other",Endocrine event,Metabolic/Endocrine,Non operative
+"Metabolic/endocrine surgery, other",Endocrine event,Metabolic/Endocrine,Non operative
+"Metabolic/endocrine surgery, other",Planned post - op,Metabolic/Endocrine,Non operative
+Parathyroidectomy,Planned post - op,Metabolic/Endocrine,Non operative
+Thyroid neoplasm,Endocrine event,Metabolic/Endocrine,Non operative
+Thyroidectomy,Planned post - op,Metabolic/Endocrine,Non operative
+Thyroidectomy and parathyroidectomy,Planned post - op,Metabolic/Endocrine,Non operative
+Adrenalectomy,Planned post - op,Metabolic/Endocrine,Non operative
+"Arthritis, rheumatoid",Other,Metabolic/Endocrine,Non operative
+"Arthritis, rheumatoid",Other,Metabolic/Endocrine,Non operative
+"Arthritis, septic",Other,Metabolic/Endocrine,Non operative
+Burn,Other,Metabolic/Endocrine,Non operative
+Cellulitis and localized soft tissue infections,Other,Metabolic/Endocrine,Non operative
+Connective tissue disease (mixed),Other,Metabolic/Endocrine,Non operative
+"Lupus, systemic",Other,Metabolic/Endocrine,Non operative
+"Musculoskeletal medical, other",Other,Metabolic/Endocrine,Non operative
+"Myositis, viral",Other,Metabolic/Endocrine,Non operative
+Rhabdomyolysis,Other,Metabolic/Endocrine,Non operative
+Scleroderma,Other,Metabolic/Endocrine,Non operative
+Vasculitis,Other,Metabolic/Endocrine,Non operative
+"Metabolic/endocrine surgery, other",Planned post - op,Metabolic/Endocrine,Post operative
+Parathyroidectomy,Planned post - op,Metabolic/Endocrine,Post operative
+Thyroidectomy,Planned post - op,Metabolic/Endocrine,Post operative
+Thyroidectomy and parathyroidectomy,Planned post - op,Metabolic/Endocrine,Post operative
+Adrenalectomy,Planned post - op,Metabolic/Endocrine,Post operative
+Burn,Other,Musculoskeletal/Skin,Non operative
+Cellulitis and localized soft tissue infections,Other,Musculoskeletal/Skin,Non operative
+Connective tissue disease (mixed),Other,Musculoskeletal/Skin,Non operative
+"Musculoskeletal medical, other",Other,Musculoskeletal/Skin,Non operative
+Rhabdomyolysis,Other,Musculoskeletal/Skin,Non operative
+Scleroderma,Other,Musculoskeletal/Skin,Non operative
+Vasculitis,Other,Musculoskeletal/Skin,Non operative
+Amputation (non-traumatic),Planned post - op,Musculoskeletal/Skin,Post operative
+"Cellulitis and localized soft tissue infections, surgery for",Planned post - op,Musculoskeletal/Skin,Post operative
+Cosmetic surgery,Planned post - op,Musculoskeletal/Skin,Post operative
+"Fracture-pathological, non-union, non-traumatic, for fractures due to trauma",Planned post - op,Musculoskeletal/Skin,Post operative
+"Grafting, skin (all)",Planned post - op,Musculoskeletal/Skin,Post operative
+"Hip replacement, total (non-traumatic)",Planned post - op,Musculoskeletal/Skin,Post operative
+"Knee replacement, total (non-traumatic)",Planned post - op,Musculoskeletal/Skin,Post operative
+"Orthopedic surgery, other",Planned post - op,Musculoskeletal/Skin,Post operative
+"Skin surgery, other",Planned post - op,Musculoskeletal/Skin,Post operative
+"Abscess, neurologic",Other,Neurologic,Non operative
+Amyotrophic lateral sclerosis,Other,Neurologic,Non operative
+Coma/change in level of consciousness,Other,Neurologic,Non operative
+"CVA, cerebrovascular accident/stroke",Acute ischemic event,Neurologic,Non operative
+Drug withdrawal,Other,Neurologic,Non operative
+Encephalitis,Other,Neurologic,Non operative
+Encephalopathies (excluding hepatic),Other,Neurologic,Non operative
+Guillian-Barre syndrome,Other,Neurologic,Non operative
+"Hematoma, epidural",Other,Neurologic,Non operative
+"Hematoma, subdural",Other,Neurologic,Non operative
+"Hemorrhage/hematoma, intracranial",Other,Neurologic,Non operative
+"Hydrocephalus, obstructive",Other,Neurologic,Non operative
+Meningitis,Other,Neurologic,Non operative
+Myasthenia gravis,Other,Neurologic,Non operative
+"Neoplasm, neurologic",Other,Neurologic,Non operative
+"Neurologic medical, other",Other,Neurologic,Non operative
+"Neuromuscular medical, other",Other,Neurologic,Non operative
+Nontraumatic coma due to anoxia/ischemia,Acute ischemic event,Neurologic,Non operative
+"Overdose, alcohols (bethanol, methanol, ethylene glycol)",Other,Neurologic,Non operative
+"Overdose, analgesic (aspirin, cetaminophen)",Other,Neurologic,Non operative
+"Overdose, antidepressants (cyclic, lithium)",Other,Neurologic,Non operative
+"Overdose, other toxin, poison or drug",Other,Neurologic,Non operative
+"Overdose, sedatives, hypnotics, antipsychotics, benzodiazepines",Other,Neurologic,Non operative
+"Overdose, street drugs",Other,Neurologic,Non operative
+"Poisoning, carbon monoxide, arsenic, cyanide",Other,Neurologic,Non operative
+Seizures (primary-no structural brain disease),Other,Neurologic,Non operative
+Subarachnoid hemorrhage/arteriovenous malformation,Other,Neurologic,Non operative
+Subarachnoid hemorrhage/intracranial aneurysm,Other,Neurologic,Non operative
+"Abscess/infection-cranial, surgery for",Planned post - op,Neurologic,Post operative
+"Anastomosis, vascular",Planned post - op,Neurologic,Post operative
+"Arteriovenous malformation, surgery for",Planned post - op,Neurologic,Post operative
+Burr hole placement,Planned post - op,Neurologic,Post operative
+"Cerebrospinal fluid leak, surgery for",Planned post - op,Neurologic,Post operative
+Complications of previous spinal cord surgery,Planned post - op,Neurologic,Post operative
+"Cranial nerve, decompression/ligation",Planned post - op,Neurologic,Post operative
+Cranioplasty & complications from previous craniotomies,Planned post - op,Neurologic,Post operative
+Devices for spine fracture/dislocation,Planned post - op,Neurologic,Post operative
+Fusion-spinal/Harrington rods,Planned post - op,Neurologic,Post operative
+"Hematoma, epidural, surgery for",Planned post - op,Neurologic,Post operative
+"Hematoma, subdural, surgery for",Planned post - op,Neurologic,Post operative
+"Hemorrhage/hematoma-intracranial, surgery for",Emergency post op,Neurologic,Post operative
+Laminectomy/spinal cord decompression,Planned post - op,Neurologic,Post operative
+"Neoplasm-cranial, surgery for",Planned post - op,Neurologic,Post operative
+Neoplasm-spinal cord surgery,Planned post - op,Neurologic,Post operative
+"Neurologic surgery, other",Planned post - op,Neurologic,Post operative
+"Seizures-intractable, surgery for",Planned post - op,Neurologic,Post operative
+Shunts and revisions,Planned post - op,Neurologic,Post operative
+"Spinal cord sugery, other",Planned post - op,Neurologic,Post operative
+Stereotactic procedure,Planned post - op,Neurologic,Post operative
+"Subarachnoid hemorrhage/intracranial aneurysm, surgery",Emergency post op,Neurologic,Post operative
+Sympathectomy,Planned post - op,Neurologic,Post operative
+Transphenoidal surgery,Planned post - op,Neurologic,Post operative
+Ventriculostomy,Planned post - op,Neurologic,Post operative
+"Apnea, sleep",Respiratory disease,Respiratory,Non operative
+"ARDS, non-cardiogenic pulmonary edema",Respiratory disease,Respiratory,Non operative
+Asthma,Respiratory disease,Respiratory,Non operative
+Atelectasis,Respiratory disease,Respiratory,Non operative
+"Cancer, laryngeal",Oncology/Haematology,Respiratory,Non operative
+"Cancer, lung",Oncology/Haematology,Respiratory,Non operative
+"Cancer, oral",Oncology/Haematology,Respiratory,Non operative
+"Cancer, tracheal",Oncology/Haematology,Respiratory,Non operative
+"Effusions, pleural",Respiratory disease,Respiratory,Non operative
+"Embolus, pulmonary",Acute ischemic event,Respiratory,Non operative
+Emphysema/bronchitis,Respiratory disease,Respiratory,Non operative
+"Hemorrhage/hemoptysis, pulmonary",Respiratory disease,Respiratory,Non operative
+Hemothorax,Respiratory disease,Respiratory,Non operative
+"Hypertension-pulmonary, primary/idiopathic",Respiratory disease,Respiratory,Non operative
+Near drowning accident,Trauma including traumatic brain injury,Respiratory,Non operative
+Obstruction-airway,Respiratory disease,Respiratory,Non operative
+"Pneumonia, aspiration",Acute respiratory infection,Respiratory,Non operative
+"Pneumonia, bacterial",Acute respiratory infection,Respiratory,Non operative
+"Pneumonia, fungal",Acute respiratory infection,Respiratory,Non operative
+"Pneumonia, other",Acute respiratory infection,Respiratory,Non operative
+"Pneumonia, parasitic (i.e. Pneumocystis pneumonia)",Acute respiratory infection,Respiratory,Non operative
+"Pneumonia, viral",Acute respiratory infection,Respiratory,Non operative
+Pneumothorax,Respiratory disease,Respiratory,Non operative
+"Respiratory- medical, other",Respiratory disease,Respiratory,Non operative
+Restrictive lung disease,Respiratory disease,Respiratory,Non operative
+Smoke inhalation,Respiratory disease,Respiratory,Non operative
+Weaning from mechanical ventilation,Other,Respiratory,Non operative
+Apnea-sleep; surgery for,Planned post - op,Respiratory,Post operative
+"Biopsy, open lung",Planned post - op,Respiratory,Post operative
+Bullectomy,Planned post - op,Respiratory,Post operative
+"Cancer oral/sinus, surgery for",Oncology/Haematology,Respiratory,Post operative
+"Cancer-laryngeal/tracheal, surgery for",Oncology/Haematology,Respiratory,Post operative
+Facial surgery,Planned post - op,Respiratory,Post operative
+"Infection/abscess, other surgery for",Planned post - op,Respiratory,Post operative
+"Respiratory surgery, other",Planned post - op,Respiratory,Post operative
+Thoracotomy for benign tumor,Planned post - op,Respiratory,Post operative
+Thoracotomy for bronchopleural fistula,Planned post - op,Respiratory,Post operative
+Thoracotomy for esophageal cancer,Oncology/Haematology,Respiratory,Post operative
+Thoracotomy for lung cancer,Oncology/Haematology,Respiratory,Post operative
+Thoracotomy for lung reduction,Planned post - op,Respiratory,Post operative
+Thoracotomy for other malignancy in chest,Oncology/Haematology,Respiratory,Post operative
+Thoracotomy for other reasons,Planned post - op,Respiratory,Post operative
+Thoracotomy for pleural disease,Planned post - op,Respiratory,Post operative
+Thoracotomy for thoracic/respiratory infection,Planned post - op,Respiratory,Post operative
+Tracheostomy,Planned post - op,Respiratory,Post operative
+"Bone marrow transplant, non operative admission",Other,Transplant,Non operative
+"Heart transplant, non operative admission",Other,Transplant,Non operative
+"Heart-lung transplant, non operative admission",Other,Transplant,Non operative
+"Kidney transplant, non operative admission",Other,Transplant,Non operative
+"Kidney-pancreas transplant, non operative admission",Other,Transplant,Non operative
+"Liver transplant, non operative admission",Other,Transplant,Non operative
+"Liver-small bowel transplant, non operative admission",Other,Transplant,Non operative
+"Lung transplant, bilateral, non operative admission",Other,Transplant,Non operative
+"Lung transplant, single, non operative admission",Other,Transplant,Non operative
+"Pancreas transplant, non operative admission",Other,Transplant,Non operative
+"Small bowel transplant, non operative admission",Other,Transplant,Non operative
+"Transplant, other, non operative admission",Other,Transplant,Non operative
+Bone marrow transplant,Other,Transplant,Post operative
+Heart transplant,Other,Transplant,Post operative
+Heart-lung transplant,Other,Transplant,Post operative
+Kidney transplant,Other,Transplant,Post operative
+Kidney-pancreas transplant,Other,Transplant,Post operative
+Liver transplant,Other,Transplant,Post operative
+Liver-small bowel transplant,Other,Transplant,Post operative
+"Lung transplant, bilateral",Other,Transplant,Post operative
+"Lung transplant, single",Other,Transplant,Post operative
+Pancreas transplant,Other,Transplant,Post operative
+Small bowel transplant,Other,Transplant,Post operative
+"Transplant, other",Other,Transplant,Post operative
+Abdomen only trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Abdomen/extremity trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Abdomen/face trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Abdomen/multiple trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Abdomen/pelvis trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Abdomen/spinal trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Chest/abdomen trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Chest/extremity trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Chest/face trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Chest/multiple trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Chest/pelvis trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Chest/spinal trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Chest/thorax only trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Extremity only trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Extremity/face trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Extremity/multiple trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Face only trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Face/multiple trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Head (CNS) only trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Head/abdomen trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Head/chest trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Head/extremity trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Head/face trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Head/multiple trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Head/pelvis trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Head/spinal trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Pelvis/extremity trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Pelvis/face trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Pelvis/hip only trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Pelvis/multiple trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Pelvis/spinal trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Spinal cord only trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Spinal/extremity trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Spinal/face trauma,Trauma including traumatic brain injury,Trauma,Non operative
+Spinal/multiple trauma,Trauma including traumatic brain injury,Trauma,Non operative
+"Trauma medical, other",Trauma including traumatic brain injury,Trauma,Non operative
+"Abdomen only trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Abdomen/extremity trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Abdomen/face trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Abdomen/multiple trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Abdomen/pelvis trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Abdomen/spinal trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Chest/abdomen trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Chest/extremity trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Chest/face trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Chest/multiple trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Chest/pelvis trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Chest/spinal trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Chest/thorax only trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Extremity only trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Extremity/face trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Extremity/multiple trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Face only trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Face/multiple trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Head (CNS) only trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Head/abdomen trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Head/chest trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Head/extremity trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Head/face trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Head/multiple trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Head/pelvis trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Head/spinal trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Pelvis/extremity trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Pelvis/face trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Pelvis/hip only trauma,surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Pelvis/multiple trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Pelvis/spinal trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Spinal cord only trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Spinal/extremity trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Spinal/face trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Spinal/multiple trauma, surgery for",Trauma including traumatic brain injury,Trauma,Post operative
+"Trauma surgery, other",Trauma including traumatic brain injury,Trauma,Post operative

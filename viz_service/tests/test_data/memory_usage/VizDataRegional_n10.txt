@@ -1,0 +1,10 @@
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\internals\managers.py:165: size=146 KiB (+65.7 KiB), count=2327 (+1051), average=64 B 
+C:\Users\44778\AppData\Local\Programs\Python\Python37\lib\threading.py:804: size=8064 B (+6912 B), count=14 (+12), average=576 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\indexing.py:850: size=7568 B (+6192 B), count=11 (+9), average=688 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\indexes\base.py:3911: size=36.3 KiB (+5184 B), count=516 (+72), average=72 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\internals\concat.py:109: size=15.0 KiB (+4544 B), count=240 (+71), average=64 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\internals\concat.py:64: size=14.7 KiB (+4288 B), count=235 (+67), average=64 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\requests\adapters.py:449: size=6024 B (+4272 B), count=11 (+6), average=548 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\requests\sessions.py:643: size=5512 B (+3888 B), count=11 (+6), average=501 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\indexes\base.py:439: size=20.1 KiB (+3744 B), count=33 (+6), average=624 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\dtypes\generic.py:10: size=10.5 KiB (+2880 B), count=91 (+24), average=118 B 

@@ -1,0 +1,10 @@
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\series.py:3848: size=2561 KiB (+2560 KiB), count=3 (+1), average=854 KiB 
+C:\Users\44778\AppData\Local\Programs\Python\Python37\lib\tracemalloc.py:113: size=172 KiB (+172 KiB), count=2000 (+2000), average=88 B 
+C:\Users\44778\AppData\Local\Programs\Python\Python37\lib\tracemalloc.py:185: size=104 KiB (+104 KiB), count=1904 (+1904), average=56 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\io\json\_normalize.py:91: size=0 B (-33.8 KiB), count=0 (-432) 
+<string>:1: size=43.6 KiB (+25.9 KiB), count=693 (+413), average=64 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\generic.py:5270: size=4496 B (-20.4 KiB), count=80 (-373), average=56 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\internals\managers.py:165: size=45.2 KiB (+18.1 KiB), count=720 (+290), average=64 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\algorithms.py:382: size=16.0 KiB (+8200 B), count=39 (+18), average=420 B 
+C:\Users\44778\.virtualenvs\viz_service-i61uxvEH\lib\site-packages\pandas\core\indexes\base.py:409: size=47.1 KiB (+4464 B), count=79 (+8), average=611 B 
+C:\Users\44778\AppData\Local\Programs\Python\Python37\lib\json\decoder.py:353: size=160 B (-3749 B), count=5 (-118), average=32 B 
