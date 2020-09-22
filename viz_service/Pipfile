@@ -19,6 +19,7 @@ requests = "*"
 redis = "*"
 flask-apscheduler = "*"
 responses = "*"
+nose = "*"
 
 [requires]
 python_version = "3.7"

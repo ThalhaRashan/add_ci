@@ -20,4 +20,4 @@ jobs:
       - run:
           name: run tests
           command: |
-            python -m unittest tests/test_temp.py
+            nosetests tests/test_temp.py
