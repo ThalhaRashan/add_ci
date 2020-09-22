@@ -20,4 +20,4 @@ jobs:
       - run:
           name: run tests
           command: |
-            nosetests tests/test_temp.py
+            python -m unittest discover -p "test_temp.py"
