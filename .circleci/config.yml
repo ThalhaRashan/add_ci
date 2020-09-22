@@ -15,6 +15,7 @@ jobs:
           name: install dependencies
           command: |
             pip install pipenv
+            ls
             cd /app
       # Step 3: run linter and tests
       - run:
