@@ -17,19 +17,23 @@ jobs:
         with:
           python-version: 3.7
       - name: Install dependencies
+        working-directory: ./viz_service
         run: |
           ls -la
           python -m pip install --upgrade pip
           pip install pipenv
 
       - name: Install python packages
+        working-directory: ./viz_service
         run: |
           pipenv install
           pip freeze
 
       - name: Test flask app
+        working-directory: ./viz_service
         run: |
           python -m unittest discover -p "test_flask_app.py"
 
       - name: Test transformation functions
+        working-directory: ./viz_service
         run: python -m unittest discover -p "test_data_transformation_functions"
