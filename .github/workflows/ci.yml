@@ -16,11 +16,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install pipenv
           pipenv install
+        working-directory: viz_service
 
       - name: Test flask app
         run: |
           cd viz_service
           python -m unittest discover -p "test_flask_app.py"
-
+        working-directory: viz_service
+        
       - name: Test transformation functions
         run: python -m unittest discover -p "test_data_transformation_functions"
+        working-directory: viz_service
