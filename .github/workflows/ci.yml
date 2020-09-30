@@ -19,8 +19,8 @@ jobs:
 
       - name: Test flask app
         run: |
-        cd viz_service
-        python -m unittest discover -p "test_flask_app.py"
+          cd viz_service
+          python -m unittest discover -p "test_flask_app.py"
 
       - name: Test transformation functions
         run: python -m unittest discover -p "test_data_transformation_functions"
