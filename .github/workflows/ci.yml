@@ -4,7 +4,7 @@ on: [push]
 
 defaults:
   run:
-    working-directory: viz_service
+    working-directory: add_ci/viz_service
 
 jobs:
   build:
