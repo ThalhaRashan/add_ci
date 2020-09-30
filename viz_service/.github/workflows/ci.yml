@@ -18,7 +18,7 @@ jobs:
           pipenv install
 
       - name: Test flask app
-        run:
+        run: |
         cd viz_service
         python -m unittest discover -p "test_flask_app.py"
 
