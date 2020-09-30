@@ -2,11 +2,14 @@ name: viz_service tests
 
 on: [push]
 
+defaults:
+  run:
+    working-directory: web
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    evn:
-      working-directory: ./viz_service
+
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python 3.7
@@ -18,13 +21,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install pipenv
           pipenv install
-        working-directory: ${{env.working-directory}}
 
       - name: Test flask app
         run: |
           python -m unittest discover -p "test_flask_app.py"
-        working-directory: ${{env.working-directory}}
-        
+
       - name: Test transformation functions
         run: python -m unittest discover -p "test_data_transformation_functions"
-        working-directory: ./viz_service
